@@ -1,1 +1,1 @@
-https://uas-2023-1-datamining-muhammadfaiz-2020230065.streamlit.app/
+https://uas-datamining-hatta.streamlit.app/
